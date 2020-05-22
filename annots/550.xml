@@ -1,0 +1,38 @@
+<annotation>
+	<folder>house sparrow</folder>
+	<filename>550.jpeg</filename>
+	<path>/home/reetvik/Desktop/house sparrow/550.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hsparrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>30</ymin>
+			<xmax>142</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hsparrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>22</ymin>
+			<xmax>186</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

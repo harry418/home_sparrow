@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>718.jpeg</filename>
+	<path>/my-project-name/718.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>home_sparrow</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>75</ymin>
+			<xmax>187</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>home_sparrow</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>29</ymin>
+			<xmax>161</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
